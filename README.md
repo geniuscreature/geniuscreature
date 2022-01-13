@@ -1,8 +1,7 @@
 ## Hi, I'm Pavel 🙂<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ### Technologies
-
-[![Top Stack](https://widget.realdeveloper.pro/api/top?stack=PHP,Laravel,JavaScript)](https://github.com/kijepark)
+![](https://simpleicons.org/icons/php.svg)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geniuscreature&layout=compact&theme=tokyonight)
 
 <!--
