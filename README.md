@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hi, I'm Pavel 🙂<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geniuscreature&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **geniuscreature/geniuscreature** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
