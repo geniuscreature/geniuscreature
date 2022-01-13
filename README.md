@@ -1,7 +1,9 @@
 ## Hi, I'm Pavel 🙂<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ### Technologies
-![56x56](https://simpleicons.org/icons/php.svg)
+[<img align="left" alt="medium" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />]
+[<img align="left" alt="medium" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />]
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geniuscreature&layout=compact&theme=tokyonight)
 
 <!--
