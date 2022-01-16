@@ -1,8 +1,8 @@
-## Hi, I'm Pavel <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi, I'm Pavel <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 **I'm a back-end developer from Belarus🙂**
 
-### Technologies and skills
+## Technologies and skills
 <p align="left">
 <img alt="medium" src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
 <img alt="medium" src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
