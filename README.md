@@ -9,6 +9,6 @@
 <img alt="medium" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=geniuscreature&show_icons=true&locale=en&layout=compact" alt="geniuscreature" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=geniuscreature&show_icons=true&locale=en&layout=compact" alt="geniuscreature" />
 </p>
