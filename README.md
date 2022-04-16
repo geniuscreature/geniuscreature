@@ -2,15 +2,16 @@
 
 **I'm a back-end developer from Belarus🙂**
 
-## Technologies and skills
-<p align="left">
-<img alt="medium" src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
-<img alt="medium" src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
-<img alt="medium" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white" />
-<img alt="medium" src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white" />
-<img alt="medium" src="https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white" />
-<img alt="medium" src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" />
-</p>
+## :hammer_and_wrench: Technologies and skills
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="VueJS" alt="VueJS" width="40" height="40"/>&nbsp;
+</div>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=geniuscreature&show_icons=true&layout=compact&theme=tokyonight" alt="geniuscreature" />
