@@ -14,6 +14,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </div>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=geniuscreature&show_icons=true&layout=compact&theme=tokyonight" alt="geniuscreature" />
 </p>
