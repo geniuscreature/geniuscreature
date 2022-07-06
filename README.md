@@ -1,6 +1,6 @@
 # Hi, I'm Pavel <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-**I'm a back-end developer from Belarus🙂**
+**I'm a professional back-end PHP/Laravel developer🙂**
 
 ## :hammer_and_wrench: Technologies and skills
 <div>
