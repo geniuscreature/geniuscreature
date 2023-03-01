@@ -3,7 +3,7 @@
 **I'm a professional back-end PHP/Laravel developer🙂**
 
 ## :hammer_and_wrench: Technologies and skills
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,js,vue,mysql,docker,git,github&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,js,vue,mysql,docker,git,github&theme=light)](https://skillicons.dev)
 
 ##
 <p align="left">
